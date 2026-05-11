@@ -1,0 +1,42 @@
+# =========================
+# PYTHON
+# =========================
+
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+backend/.env
+
+# Google OAuth / tokens
+backend/credentials.json
+backend/tokens/
+
+# =========================
+# NODE / REACT
+# =========================
+
+frontend/node_modules/
+frontend/build/
+
+# =========================
+# LOGS
+# =========================
+
+*.log
+
+# =========================
+# OS FILES
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# VS CODE
+# =========================
+
+.vscode/
