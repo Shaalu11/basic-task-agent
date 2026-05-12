@@ -11,7 +11,6 @@ An AI-powered productivity assistant built using React, FastAPI, Google Calendar
 - Google Calendar integration
 - Gmail email sending
 - AI-based command parsing
-- Event rescheduling
 - Smart schedule queries
 
 ---
@@ -20,7 +19,6 @@ An AI-powered productivity assistant built using React, FastAPI, Google Calendar
 
 - meeting tomorrow at 10am
 - what's my schedule tomorrow
-- move meeting to 6pm
 - send an email to myself saying hello
 
 ---
@@ -223,7 +221,3 @@ http://localhost:3000
 - Mobile support
 
 ---
-
-# Author
-
-Shaalu
