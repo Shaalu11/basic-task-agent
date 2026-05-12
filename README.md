@@ -202,13 +202,6 @@ Frontend runs on:
 ```bash
 http://localhost:3000
 ```
-
----
-
-# Screenshots
-
-(Add screenshots here)
-
 ---
 
 # Future Improvements
