@@ -1,4 +1,3 @@
-# Basic Task Agent
 # AI Task Agent
 
 An AI-powered productivity assistant built using React, FastAPI, Google Calendar API, Gmail API, and Groq AI.
