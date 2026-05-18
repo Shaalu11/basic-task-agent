@@ -127,12 +127,18 @@ function Chat() {
           ))}
         </div>
 
+
         <div className="input-area">
           <input
             type="text"
             placeholder="Type: Meeting tomorrow at 10am"
             value={text}
             onChange={(e) => setText(e.target.value)}
+            onKeyDown={(e) => {
+              if (e.key === "Enter") {
+                sendMessage();
+              }
+            }}
           />
 
           <button onClick={sendMessage}>

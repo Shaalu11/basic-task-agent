@@ -262,7 +262,7 @@ async def delete_event_by_id(email: str, event_id: str):
         return {"error": str(e)}
 
 
-# ✅ AI TASK
+#✅ AI TASK
 @app.post("/ai-task")
 async def ai_task(data: dict):
     try:
