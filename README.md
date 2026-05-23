@@ -228,6 +228,10 @@ http://localhost:3000
 
 <img src="screenshots/darkmode.png" width="45%"/>
 
+## Email Integration
+
+<img src="screenshots/email.png" width="800"/>
+
 # Future Improvements
 
 - Voice assistant
