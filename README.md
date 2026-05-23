@@ -220,6 +220,14 @@ http://localhost:3000
 
 ![Events](screenshots/viewevents.png)
 
+## Calendar Integration
+
+<img src="screenshots/calendar.png" width="800"/>
+
+## Dark Mode 
+
+<img src="screenshots/darkmode.png" width="45%"/>
+
 # Future Improvements
 
 - Voice assistant
