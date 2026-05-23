@@ -208,17 +208,17 @@ http://localhost:3000
 
 ## Home Page 
 <p align="center">
-  <img src="screenshots/home-1.png" width="45%"/>
-  <img src="screenshots/home-2.png" width="45%"/>
+  <img src="screenshots/home.png" width="45%"/>
+  <img src="screenshots/home1.png" width="45%"/>
 </p>
 
 ## Chat UI
 
-![Chat](screenshots/chat-ui.png)
+![Chat](screenshots/chatbox.png)
 
 ## Events Panel
 
-![Events](screenshots/events.png)
+![Events](screenshots/viewevents.png)
 
 # Future Improvements
 
