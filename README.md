@@ -207,7 +207,18 @@ http://localhost:3000
 # Screenshots 
 
 ## Home Page 
-![Home](screenshots/home1.png)
+<p align="center">
+  <img src="screenshots/home-1.png" width="45%"/>
+  <img src="screenshots/home-2.png" width="45%"/>
+</p>
+
+## Chat UI
+
+![Chat](screenshots/chat-ui.png)
+
+## Events Panel
+
+![Events](screenshots/events.png)
 
 # Future Improvements
 
