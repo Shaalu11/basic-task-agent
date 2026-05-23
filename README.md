@@ -202,7 +202,35 @@ Frontend runs on:
 ```bash
 http://localhost:3000
 ```
----
+--- 
+
+# Screenshots 
+
+## Home Page 
+<p align="center">
+  <img src="screenshots/home.png" width="45%"/>
+  <img src="screenshots/home1.png" width="45%"/>
+</p>
+
+## Chat UI
+
+![Chat](screenshots/chatbox.png)
+
+## Events Panel
+
+![Events](screenshots/viewevents.png)
+
+## Calendar Integration
+
+<img src="screenshots/calendar.png" width="800"/>
+
+## Dark Mode 
+
+<img src="screenshots/darkmode.png" width="45%"/>
+
+## Email Integration
+
+<img src="screenshots/email.png" width="800"/>
 
 # Future Improvements
 
