@@ -202,7 +202,12 @@ Frontend runs on:
 ```bash
 http://localhost:3000
 ```
----
+--- 
+
+# Screenshots 
+
+## Home Page 
+![Home](screenshots/home1.png)
 
 # Future Improvements
 
