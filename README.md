@@ -232,7 +232,7 @@ http://localhost:3000
 
 <img src="screenshots/email.png" width="800"/>
 
-## Show events for specified day
+## Show events for the specified day
 
 <img src="screenshots/eventsfortoday.png" width="800" />
 
