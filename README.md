@@ -226,11 +226,15 @@ http://localhost:3000
 
 ## Dark Mode 
 
-<img src="screenshots/darkmode.png" width="45%"/>
+<img src="screenshots/darkmode.png" width="800"/>
 
 ## Email Integration
 
 <img src="screenshots/email.png" width="800"/>
+
+## Show events for specified day
+
+<img src="screenshots/eventsfortoday.png" width="800" />
 
 # Future Improvements
 
