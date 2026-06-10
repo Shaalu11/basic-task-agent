@@ -162,14 +162,6 @@ body.dark .nav-title {
   min-width: 300px;
 }
 
-.event-dot {
-  width: 6px;
-  height: 6px;
-  background: #6d5dfc;
-  border-radius: 50%;
-  margin: 2px auto;
-}
-
 /* Chat Page */
 .chat-layout {
   width: 900px;
