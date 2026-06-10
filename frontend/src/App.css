@@ -138,6 +138,7 @@ body.dark .nav-title {
 .calendar-page {
   width: 1000px;
   margin: auto;
+  text-align: center;
 }
 
 .calendar-container {
@@ -259,34 +260,6 @@ body.dark .event-dot {
   background: #a78bfa;
 }
 
-.calendar-page {
-  text-align: center;
-}
-
-.calendar-container {
-  display: flex;
-  justify-content: center;
-  gap: 30px;
-  margin-top: 20px;
-}
-
-.calendar-events {
-  width: 300px;
-  background: white;
-  padding: 15px;
-  border-radius: 10px;
-}
-
-/* Dark mode support */
-body.dark .calendar-events {
-  background: #1f2937;
-  color: white;
-}
-
-/* Calendar Page */
-.calendar-page {
-  text-align: center;
-}
 
 .calendar-container {
   display: flex;
@@ -323,10 +296,6 @@ body.dark .calendar-events {
 body.dark .calendar-events {
   background: #1f2937;
   color: white;
-}
-
-body.dark .event-dot {
-  background: #a78bfa;
 }
 
 /* Time Passed Dialog */
