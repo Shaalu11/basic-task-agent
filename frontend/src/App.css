@@ -376,3 +376,9 @@ body.dark .time-passed-dialog h3 {
 body.dark .time-passed-dialog p {
   color: #d1d5db;
 }
+
+body.dark .dialog-close-btn {
+  background: linear-gradient(135deg, #a78bfa, #8b5cf6);
+} 
+
+
