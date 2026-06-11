@@ -70,7 +70,7 @@ def delete_event(token, title):
     return {"message": "Event not found"}
 
 
-# ✅ RESCHEDULE EVENT (NEW 🔥)
+# ✅ RESCHEDULE EVENT
 def reschedule_event(token, title, new_date=None, new_time=None):
     service = get_calendar_service(token)
 

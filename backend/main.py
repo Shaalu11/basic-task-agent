@@ -117,7 +117,7 @@ def login():
         scopes=SCOPES,
         redirect_uri=REDIRECT_URI
     )
-
+ 
     authorization_url, _ = flow_instance.authorization_url(
         access_type='offline',
         prompt='consent'
@@ -200,7 +200,7 @@ async def get_events(email: str):
             return {"error": "User not authenticated"}
 
         if not is_token_valid(email, token):
-            return {"error": "Session expired"}
+            return {"error": "Session eis xpired"}
 
         service = build(
             'calendar',
